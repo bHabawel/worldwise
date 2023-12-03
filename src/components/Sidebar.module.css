@@ -1,3 +1,4 @@
+@import "../index.css";
 .sidebar {
   flex-basis: 56rem;
   background-color: var(--color-dark--1);
